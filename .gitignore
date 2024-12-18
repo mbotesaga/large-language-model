@@ -1,0 +1,5 @@
+*.so
+logs/
+*.zip
+*.tar.gz
+.env
