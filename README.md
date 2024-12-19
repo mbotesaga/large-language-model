@@ -58,4 +58,5 @@ Generate Text: Click the "Generate Text" button to send the prompt to the backen
 
 View Results: The backend will generate text based on the input prompt using the GPT-2 model, and the generated text will be displayed on the page
 
-![LLM Directory Structure](https://github.com/user-attachments/assets/90d3b810-e7b3-4af0-bb8d-513bee9c0053)
+![LLM Directory Structure](https://github.com/user-attachments/assets/293f9e9f-dee9-478f-a046-0c266d15a196)
+
